@@ -302,6 +302,19 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+#services .para1 {
+    text-indent: 50px;
+}
+#services .para2 {
+    text-indent: 50px;
+}
+#services .para3 {
+    text-indent: 50px;
+}
+#services .para4 {
+    text-indent: 50px;
+}
+}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
@@ -554,8 +567,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222222;
-  background-image: url('../img/map-image.png');
+
   background-position: center;
   background-repeat: no-repeat;
 }
